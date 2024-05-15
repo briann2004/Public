@@ -1,1 +1,1 @@
-# Public
+print("Hello, world!")
